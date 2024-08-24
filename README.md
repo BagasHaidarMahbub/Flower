@@ -1,14 +1,6 @@
-# Kado
--Flower code from: https://codepen.io/mdusmanansari/pen/BamepLe
+# tugas bootcamp ke 3
 
+![Alt text](ss.png?raw=true "gambar")
 
-# Description
-Flower code tiktok trend 
-
-Responsive Web -- bisa langsung disesuikan di file css --> style.css
-
-# Author
-- Flower Code : Md Usman Ansari (@MdUsmanAnsari)
-- Index Code : Septian Dwi Cahyo (@Septiandwica)
-
-Thanks to codepan and mdusmanansari
+## penjelasan
+INI ADALAH CONTOH HASILNYA
